@@ -83,5 +83,10 @@ elif pilih == 5:
             print("Terima kasih!")# jika memilih 5 maka akan mengakhiri progam dan mencetak pesan terimakasih.
 
 
+<img width="292" height="798" alt="Screenshot 2026-05-13 224806" src="https://github.com/user-attachments/assets/9bda4d2d-f0cc-4c52-aa7b-02ea2b66ae26" />
+
+<img width="397" height="578" alt="Screenshot 2026-05-13 224821" src="https://github.com/user-attachments/assets/7644f060-d92d-4553-af39-4c04a2b3d071" />
+
+jadi saat kita memilih 1 maka akan di alihkan ke user yang dimana user akan menginputkan nama barang yang diinginkan. kalau memilih 2 maka dia akan menghapus barang paling atas. kalau memilih 3 dia akan menampilkan elemen paling atas yang ada pada stack nya. kalau memilih 4 maka dia akan menampilkan isi dari seluruh stack yang ada, dan akan menampilkan elemen dari atas ke bawah. dan trakhir kalau memilih 5 maka progam akan dihentikan .
 
 link YOUTUBE : https://youtu.be/QiKl8MoWs88?si=LF6iPf8Xep9wbdrd
